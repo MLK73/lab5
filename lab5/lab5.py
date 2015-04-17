@@ -7,6 +7,5 @@ def main():
     print(str(lab5a.sum(3,5)))
     print(str(lab5b.product(4,-3)))
     
-    
 main()
         
