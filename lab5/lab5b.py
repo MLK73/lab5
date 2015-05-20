@@ -5,7 +5,7 @@ def function_show_my_name():
     
 function_show_my_name()
         
-def product(a,b):
-    a = input("geef een integer")
-    b = input("geef nog een integer")
+def product():
+    a = int(input("geef een integer"))
+    b = int(input("geef nog een integer"))
     return a * b
